@@ -1,0 +1,1050 @@
+{
+  "www.aiims.edu": {
+    "ipv4": "203.115.96.82",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "64:ff9b::cb73:6052",
+    "country_v6": "",
+    "city_v6": ""
+  },
+  "www.myopenmath.com": {
+    "ipv4": "104.26.13.108",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:964b:1898:1064:47f:3326:5c70",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "www.ntpc.co.in": {
+    "ipv4": "210.212.126.117",
+    "country_v4": "India",
+    "city_v4": "Alwar",
+    "ipv6": "64:ff9b::d2d4:7e75",
+    "country_v6": "",
+    "city_v6": ""
+  },
+  "www.iitd.ac.in": {
+    "ipv4": "103.27.9.24",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2001:df4:e000:29::212",
+    "country_v6": "India",
+    "city_v6": "New Delhi"
+  },
+  "www.iisc.ac.in": {
+    "ipv4": "4.224.55.79",
+    "country_v4": "India",
+    "city_v4": "Pune",
+    "ipv6": "64:ff9b::4e0:374f",
+    "country_v6": "",
+    "city_v6": ""
+  },
+  "www.rbi.org.in": {
+    "ipv4": "13.107.213.72",
+    "country_v4": "Canada",
+    "city_v4": "Montreal",
+    "ipv6": "2620:1ec:bdf::72",
+    "country_v6": "United States",
+    "city_v6": "Redmond"
+  },
+  "www.iocl.com": {
+    "ipv4": "103.109.6.214",
+    "country_v4": "India",
+    "city_v4": "Noida",
+    "ipv6": "64:ff9b::676d:6d6",
+    "country_v6": "",
+    "city_v6": ""
+  },
+  "www.telegraphindia.com": {
+    "ipv4": "104.123.217.133",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "64:ff9b::687b:d985",
+    "country_v6": "",
+    "city_v6": ""
+  },
+  "www.nationalgrid.com": {
+    "ipv4": "172.64.144.202",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9640:30f0:8964:489:14c3:ca81",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "www.dmrc.co.in": {
+    "ipv4": "202.66.175.236",
+    "country_v4": "India",
+    "city_v4": "Chitrakoot",
+    "ipv6": "64:ff9b::ca42:afec",
+    "country_v6": "",
+    "city_v6": ""
+  },
+  "www.hindustanpetroleum.com": {
+    "ipv4": "103.115.194.145",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "64:ff9b::6773:c291",
+    "country_v6": "",
+    "city_v6": ""
+  },
+  "www.facebook.com": {
+    "ipv4": "157.240.239.35",
+    "country_v4": "India",
+    "city_v4": "Noida",
+    "ipv6": "2a03:2880:f144:181:face:b00c:0:25de",
+    "country_v6": "India",
+    "city_v6": "Noida"
+  },
+  "www.yahoo.com": {
+    "ipv4": "98.137.11.163",
+    "country_v4": "United States",
+    "city_v4": "Quincy",
+    "ipv6": "2001:4998:124:1507::f000",
+    "country_v6": "United States",
+    "city_v6": "Lockport"
+  },
+  "reddit.com": {
+    "ipv4": "151.101.193.140",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2a04:4e42:200::396",
+    "country_v6": "France",
+    "city_v6": "Gravelines"
+  },
+  "okezone.com": {
+    "ipv4": "13.33.33.48",
+    "country_v4": "Singapore",
+    "city_v4": "Singapore",
+    "ipv6": "2600:9000:237c:1e00:11:8483:ce40:93a1",
+    "country_v6": "United States",
+    "city_v6": "Seattle"
+  },
+  "blogspot.com": {
+    "ipv4": "142.250.194.41",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:81f::2009",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "office.com": {
+    "ipv4": "13.107.6.156",
+    "country_v4": "United States",
+    "city_v4": "Emigrant Gap",
+    "ipv6": "2620:1ec:a92::156",
+    "country_v6": "United States",
+    "city_v6": "Ashburn"
+  },
+  "alipay.com": {
+    "ipv4": "110.75.129.5",
+    "country_v4": "China",
+    "city_v4": "Lipu",
+    "ipv6": "2400:b200:1010::5",
+    "country_v6": "China",
+    "city_v6": "Lipu"
+  },
+  "instagram.com": {
+    "ipv4": "157.240.239.174",
+    "country_v4": "India",
+    "city_v4": "Noida",
+    "ipv6": "2a03:2880:f244:1e5:face:b00c:0:4420",
+    "country_v6": "India",
+    "city_v6": "Noida"
+  },
+  "google.com.hk": {
+    "ipv4": "142.250.182.163",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:80e::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "microsoft.com": {
+    "ipv4": "20.76.201.171",
+    "country_v4": "Netherlands",
+    "city_v4": "Amsterdam",
+    "ipv6": "2603:1030:b:3::152",
+    "country_v6": "United States",
+    "city_v6": "Des Moines"
+  },
+  "google.co.in": {
+    "ipv4": "142.250.194.195",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4009:823::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "linkedin.com": {
+    "ipv4": "13.107.42.14",
+    "country_v4": "Canada",
+    "city_v4": "Montreal",
+    "ipv6": "2620:1ec:21::14",
+    "country_v6": "United States",
+    "city_v6": "Redmond"
+  },
+  "adobe.com": {
+    "ipv4": "49.44.175.32",
+    "country_v4": "India",
+    "city_v4": "Navi Mumbai",
+    "ipv6": "2405:200:1630:1600::312c:af20",
+    "country_v6": "India",
+    "city_v6": "Navi Mumbai"
+  },
+  "dropbox.com": {
+    "ipv4": "162.125.248.18",
+    "country_v4": "United States",
+    "city_v4": "San Francisco",
+    "ipv6": "2620:100:6040:18::a27d:f812",
+    "country_v6": "United States",
+    "city_v6": "San Francisco"
+  },
+  "mail.ru": {
+    "ipv4": "217.69.139.202",
+    "country_v4": "Russia",
+    "city_v4": "Moscow",
+    "ipv6": "2a00:1148:db00:0:b0b0::1",
+    "country_v6": "Russia",
+    "city_v6": "Moscow"
+  },
+  "google.com.br": {
+    "ipv4": "172.217.160.227",
+    "country_v4": "United States",
+    "city_v4": "New York",
+    "ipv6": "2404:6800:4002:804::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "whatsapp.com": {
+    "ipv4": "157.240.239.60",
+    "country_v4": "India",
+    "city_v4": "Noida",
+    "ipv6": "2a03:2880:f244:1c3:face:b00c:0:167",
+    "country_v6": "India",
+    "city_v6": "Noida"
+  },
+  "medium.com": {
+    "ipv4": "162.159.153.4",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:7::a29f:9804",
+    "country_v6": "Canada",
+    "city_v6": "Montreal"
+  },
+  "cnn.com": {
+    "ipv4": "151.101.195.5",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2a04:4e42:c00::773",
+    "country_v6": "Germany",
+    "city_v6": "Frankfurt am Main"
+  },
+  "google.co.jp": {
+    "ipv4": "142.250.206.163",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:80b::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "spotify.com": {
+    "ipv4": "35.186.224.25",
+    "country_v4": "United States",
+    "city_v4": "Kansas City",
+    "ipv6": "2600:1901:1:c36::",
+    "country_v6": "United States",
+    "city_v6": "Mountain View"
+  },
+  "google.cn": {
+    "ipv4": "142.250.77.195",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4009:80c::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.de": {
+    "ipv4": "142.250.194.3",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:82b::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.ru": {
+    "ipv4": "142.250.183.195",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2404:6800:4002:81b::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.es": {
+    "ipv4": "142.250.192.195",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:817::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.fr": {
+    "ipv4": "172.217.166.67",
+    "country_v4": "United States",
+    "city_v4": "New York",
+    "ipv6": "2404:6800:4002:821::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "indiatimes.com": {
+    "ipv4": "104.114.145.18",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2600:140f:dc00:1b0::3621",
+    "country_v6": "India",
+    "city_v6": "New Delhi"
+  },
+  "youm7.com": {
+    "ipv4": "104.18.12.212",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9642:9e4b:9b0c:47b:62a1:f42b",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.it": {
+    "ipv4": "142.250.192.163",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:80a::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "cnblogs.com": {
+    "ipv4": "101.37.97.51",
+    "country_v4": "China",
+    "city_v4": "Hangzhou",
+    "ipv6": "2400:3200:1300::e70",
+    "country_v6": "China",
+    "city_v6": "Hangzhou"
+  },
+  "google.com.tw": {
+    "ipv4": "142.250.192.227",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4009:82d::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "udemy.com": {
+    "ipv4": "104.18.107.64",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9642:4a73:7664:489:6812:6a40",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.com.mx": {
+    "ipv4": "142.250.194.227",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4009:815::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "canva.com": {
+    "ipv4": "104.16.224.149",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9642:883b:1064:489:6810:e095",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.com.tr": {
+    "ipv4": "172.217.167.227",
+    "country_v4": "United States",
+    "city_v4": "New York",
+    "ipv6": "2404:6800:4002:820::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.com.sg": {
+    "ipv4": "142.250.199.163",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2404:6800:4002:824::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.co.uk": {
+    "ipv4": "142.251.42.99",
+    "country_v4": "United States",
+    "city_v4": "New York",
+    "ipv6": "2404:6800:4002:813::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "pixabay.com": {
+    "ipv4": "172.64.147.160",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9641:a656:d564:489:1719:a39",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "sindonews.com": {
+    "ipv4": "18.164.188.68",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2600:9000:256b:e600:10:611b:dbc0:93a1",
+    "country_v6": "United States",
+    "city_v6": "Seattle"
+  },
+  "abs-cbn.com": {
+    "ipv4": "23.56.4.209",
+    "country_v4": "United States",
+    "city_v4": "San Jose",
+    "ipv6": "2a02:26f0:b80:3::210:959b",
+    "country_v6": "France",
+    "city_v6": "Marseille"
+  },
+  "speedtest.net": {
+    "ipv4": "151.101.130.219",
+    "country_v4": "Canada",
+    "city_v4": "Montreal",
+    "ipv6": "2a04:4e42:400::731",
+    "country_v6": "United Kingdom",
+    "city_v6": "London"
+  },
+  "google.com.eg": {
+    "ipv4": "142.250.206.99",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:82d::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "ladbible.com": {
+    "ipv4": "104.19.175.6",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9642:c007:aa64:489:6813:af06",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.ca": {
+    "ipv4": "142.250.194.67",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:820::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.com.sa": {
+    "ipv4": "142.250.77.67",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2404:6800:4002:82f::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "hdfcbank.com": {
+    "ipv4": "104.16.36.67",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:90c3:d2fd:740c:47c:6810:2443",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "investing.com": {
+    "ipv4": "104.18.32.151",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9642:647f:7f64:47f:a892:e898",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "redd.it": {
+    "ipv4": "151.101.65.140",
+    "country_v4": "United States",
+    "city_v4": "San Francisco",
+    "ipv6": "2a04:4e42:600::396",
+    "country_v6": "United Kingdom",
+    "city_v6": "London"
+  },
+  "taboola.com": {
+    "ipv4": "151.101.2.132",
+    "country_v4": "United States",
+    "city_v4": "San Francisco",
+    "ipv6": "2a04:4e42:400::644",
+    "country_v6": "United Kingdom",
+    "city_v6": "London"
+  },
+  "albawabhnews.com": {
+    "ipv4": "104.21.41.205",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:3035::ac43:c193",
+    "country_v6": "Canada",
+    "city_v6": "Toronto"
+  },
+  "google.com.ar": {
+    "ipv4": "142.250.192.35",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2404:6800:4002:826::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "ilovepdf.com": {
+    "ipv4": "104.20.1.94",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9643:5245:e90c:481:4c2f:d469",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.co.th": {
+    "ipv4": "142.250.193.195",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:82d::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "chouftv.ma": {
+    "ipv4": "104.26.1.97",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:964b:1222:b364:47f:55ff:b4b2",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "skype.com": {
+    "ipv4": "20.70.246.20",
+    "country_v4": "Australia",
+    "city_v4": "The Rocks",
+    "ipv6": "2603:1030:20e:3::23c",
+    "country_v6": "United States",
+    "city_v6": "Washington"
+  },
+  "google.co.id": {
+    "ipv4": "142.250.182.195",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2404:6800:4009:81e::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "thesaurus.com": {
+    "ipv4": "151.101.2.133",
+    "country_v4": "United States",
+    "city_v4": "San Francisco",
+    "ipv6": "2a04:4e42:200::645",
+    "country_v6": "France",
+    "city_v6": "Gravelines"
+  },
+  "ndtv.com": {
+    "ipv4": "104.123.217.30",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2600:140f:dc00:1a2::24e8",
+    "country_v6": "India",
+    "city_v6": "New Delhi"
+  },
+  "messenger.com": {
+    "ipv4": "157.240.239.17",
+    "country_v4": "India",
+    "city_v4": "Noida",
+    "ipv6": "2a03:2880:f044:100:face:b00c:0:2",
+    "country_v6": "India",
+    "city_v6": "Noida"
+  },
+  "suara.com": {
+    "ipv4": "172.67.15.108",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9644:48e7:6664:47f:218b:c92a",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "weather.com": {
+    "ipv4": "184.84.96.13",
+    "country_v4": "India",
+    "city_v4": "Bengaluru",
+    "ipv6": "2600:140f:2e00:1ae::2e03",
+    "country_v6": "India",
+    "city_v6": "New Delhi"
+  },
+  "blogger.com": {
+    "ipv4": "142.250.183.9",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2404:6800:4002:818::2009",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "googlevideo.com": {
+    "ipv4": "142.250.193.36",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:81a::2004",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "kumparan.com": {
+    "ipv4": "104.18.129.231",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9642:4079:cf0c:47b:6812:81e7",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "ikea.com": {
+    "ipv4": "23.215.194.104",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2600:140f:1e00:491::2eb6",
+    "country_v6": "India",
+    "city_v6": "Mumbai"
+  },
+  "google.pl": {
+    "ipv4": "142.250.194.3",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:822::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "asos.com": {
+    "ipv4": "23.215.7.7",
+    "country_v4": "Singapore",
+    "city_v4": "Singapore",
+    "ipv6": "2600:140f:9::1741:7c36",
+    "country_v6": "India",
+    "city_v6": "Hyderabad"
+  },
+  "zoom.us": {
+    "ipv4": "170.114.52.2",
+    "country_v4": "United States",
+    "city_v4": "San Jose",
+    "ipv6": "2407:30c0:182::aa72:3402",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.co.kr": {
+    "ipv4": "142.250.192.227",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:818::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "ensonhaber.com": {
+    "ipv4": "104.22.63.78",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9647:2a83:964:489:2974:cee5",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "dostor.org": {
+    "ipv4": "104.26.13.10",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9648:a638:7d64:47f:fe5:ac52",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "cnnindonesia.com": {
+    "ipv4": "104.18.8.100",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9641:2805:4664:47f:4d9:93a8",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "kinopoisk.ru": {
+    "ipv4": "213.180.199.9",
+    "country_v4": "Russia",
+    "city_v4": "Moscow",
+    "ipv6": "2a02:6b8::473",
+    "country_v6": "Russia",
+    "city_v6": "Moscow"
+  },
+  "google.com.au": {
+    "ipv4": "142.250.183.195",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2404:6800:4002:81e::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.gr": {
+    "ipv4": "142.250.194.163",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:816::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "investopedia.com": {
+    "ipv4": "151.101.130.137",
+    "country_v4": "Canada",
+    "city_v4": "Montreal",
+    "ipv6": "2a04:4e42::649",
+    "country_v6": "United States",
+    "city_v6": "San Francisco"
+  },
+  "google.com.vn": {
+    "ipv4": "142.250.199.163",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2404:6800:4002:82e::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "google.com.ua": {
+    "ipv4": "142.250.182.163",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4009:82c::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "newstrend.news": {
+    "ipv4": "104.21.49.29",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:3037::6815:311d",
+    "country_v6": "Canada",
+    "city_v6": "Toronto"
+  },
+  "moneycontrol.com": {
+    "ipv4": "49.44.95.151",
+    "country_v4": "India",
+    "city_v4": "Navi Mumbai",
+    "ipv6": "2405:200:1604::312c:7561",
+    "country_v6": "India",
+    "city_v6": "Navi Mumbai"
+  },
+  "genius.com": {
+    "ipv4": "104.18.23.208",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9640:8a62:60c:481:5190:109b",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "justdial.com": {
+    "ipv4": "104.112.102.18",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2600:140f:dc00:180::174d",
+    "country_v6": "India",
+    "city_v6": "New Delhi"
+  },
+  "codepen.io": {
+    "ipv4": "104.16.176.44",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9643:8aa3:3e64:47f:6810:b02c",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "zerodha.com": {
+    "ipv4": "104.17.217.15",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9642:3edd:964:47f:6811:d90f",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "prothomalo.com": {
+    "ipv4": "104.17.160.183",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9643:846:2964:47f:6811:9fb7",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "theepochtimes.com": {
+    "ipv4": "104.18.13.79",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9641:f88a:990c:481:271:d228",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "alodokter.com": {
+    "ipv4": "23.217.110.16",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2600:140f:2e00::685a:512",
+    "country_v6": "India",
+    "city_v6": "New Delhi"
+  },
+  "gstatic.com": {
+    "ipv4": "142.250.182.163",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:815::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "sportbible.com": {
+    "ipv4": "104.17.190.92",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9642:3e79:6664:489:6811:bd5c",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "elpais.com": {
+    "ipv4": "49.44.95.168",
+    "country_v4": "India",
+    "city_v4": "Navi Mumbai",
+    "ipv6": "2405:200:1604::312c:5fa8",
+    "country_v6": "India",
+    "city_v6": "Navi Mumbai"
+  },
+  "otvfoco.com.br": {
+    "ipv4": "104.22.5.108",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9644:a239:c964:47f:1b0:4c2",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "sourceforge.net": {
+    "ipv4": "172.64.150.145",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:83b2:1a4d:7ad8:0:41c0:fc0",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.co.ve": {
+    "ipv4": "142.250.206.131",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4009:81d::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "namu.wiki": {
+    "ipv4": "104.16.180.45",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9641:6ca6:4364:489:6810:b42d",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "eksisozluk.com": {
+    "ipv4": "172.67.38.42",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:90c6:96ba:5464:482:f7ab:2a8f",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "infobae.com": {
+    "ipv4": "49.44.117.105",
+    "country_v4": "India",
+    "city_v4": "Navi Mumbai",
+    "ipv6": "2405:200:1604::312c:7588",
+    "country_v6": "India",
+    "city_v6": "Navi Mumbai"
+  },
+  "mileroticos.com": {
+    "ipv4": "104.22.41.230",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9647:1455:300c:47b:548f:5659",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.com.pk": {
+    "ipv4": "142.250.192.227",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:82d::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "inquirer.net": {
+    "ipv4": "104.18.25.222",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:90c2:74f0:5364:482:3eb6:df13",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "fast.com": {
+    "ipv4": "184.84.103.221",
+    "country_v4": "India",
+    "city_v4": "Bengaluru",
+    "ipv6": "2600:1417:75:794::24fe",
+    "country_v6": "India",
+    "city_v6": "Mumbai"
+  },
+  "aksam.com.tr": {
+    "ipv4": "172.67.69.49",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9648:2f9:e64:489:9fd:45e0",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "tahiamasr.com": {
+    "ipv4": "172.67.191.70",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:3036::6815:b3a",
+    "country_v6": "Canada",
+    "city_v6": "Toronto"
+  },
+  "dcard.tw": {
+    "ipv4": "104.16.204.58",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:90c0:d632:f0c:47c:6810:6957",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "cnnic.cn": {
+    "ipv4": "42.83.144.13",
+    "country_v4": "China",
+    "city_v4": "Beijing",
+    "ipv6": "2001:dc7:cd1a:0:182:131:26:231",
+    "country_v6": "China",
+    "city_v6": "Beijing"
+  },
+  "europa.eu": {
+    "ipv4": "147.67.210.45",
+    "country_v4": "Luxembourg",
+    "city_v4": "Luxembourg",
+    "ipv6": "2a01:7080:14:100::666:45",
+    "country_v6": "Belgium",
+    "city_v6": "Brussels"
+  },
+  "google.com.co": {
+    "ipv4": "142.250.194.163",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4009:82a::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "sozcu.com.tr": {
+    "ipv4": "172.67.20.147",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:90c5:12ce:6964:482:be4d:2c3c",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.dz": {
+    "ipv4": "216.58.196.99",
+    "country_v4": "United States",
+    "city_v4": "Mountain View",
+    "ipv6": "2404:6800:4002:81a::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "alnaharegypt.com": {
+    "ipv4": "172.67.157.69",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:3031::6815:860",
+    "country_v6": "Canada",
+    "city_v6": "Toronto"
+  },
+  "yandex.com.tr": {
+    "ipv4": "87.250.255.11",
+    "country_v4": "Russia",
+    "city_v4": "Moscow",
+    "ipv6": "2a02:6b8::224",
+    "country_v6": "Russia",
+    "city_v6": "Moscow"
+  },
+  "mawdoo3.com": {
+    "ipv4": "104.26.0.23",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9648:7e04:b864:489:c3ce:ccef",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.co.za": {
+    "ipv4": "142.251.42.99",
+    "country_v4": "United States",
+    "city_v4": "New York",
+    "ipv6": "2404:6800:4009:80e::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "merriam-webster.com": {
+    "ipv4": "18.164.202.76",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2600:9000:256c:5000:c:3d32:e340:93a1",
+    "country_v6": "United States",
+    "city_v6": "Seattle"
+  },
+  "seznam.cz": {
+    "ipv4": "77.75.77.222",
+    "country_v4": "Czechia",
+    "city_v4": "Prague",
+    "ipv6": "2a02:598:2::1222",
+    "country_v6": "Czechia",
+    "city_v6": "Prague"
+  },
+  "plurk.com": {
+    "ipv4": "104.16.2.31",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9642:3856:f164:47f:6810:21f",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "google.cl": {
+    "ipv4": "142.250.192.131",
+    "country_v4": "India",
+    "city_v4": "Mumbai",
+    "ipv6": "2404:6800:4002:814::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "mit.edu": {
+    "ipv4": "23.47.252.248",
+    "country_v4": "India",
+    "city_v4": "Chennai",
+    "ipv6": "2600:141b:5000:59c::255e",
+    "country_v6": "United States",
+    "city_v6": "New York"
+  },
+  "google.ro": {
+    "ipv4": "142.250.194.67",
+    "country_v4": "India",
+    "city_v4": "New Delhi",
+    "ipv6": "2404:6800:4002:82d::2003",
+    "country_v6": "Australia",
+    "city_v6": "Sydney"
+  },
+  "ouo.io": {
+    "ipv4": "104.22.22.162",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9644:4612:6064:489:33aa:366a",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  },
+  "padlet.com": {
+    "ipv4": "104.18.42.238",
+    "country_v4": "Canada",
+    "city_v4": "Toronto",
+    "ipv6": "2606:4700:9641:6a28:9764:47f:307c:64ce",
+    "country_v6": "France",
+    "city_v6": "Paris"
+  }
+}
