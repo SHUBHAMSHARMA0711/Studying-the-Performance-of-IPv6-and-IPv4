@@ -1,7 +1,7 @@
 # Studying-the-Performance-of-IPv6-and-IPv4
 
 ## Overview
-This project aimed to evaluate and compare the performance of IPv4 and IPv6 connections across 4G networks provided by different ISPs (Jio and Airtel) while analyzing the geolocation data derived from the websites' IP addresses. The study involved various tests including ping, traceroute, and page retrieval times for a selected group of websites to assess network efficiency and the impact of different Internet protocols.
+This project aimed to evaluate and compare the performance of IPv4 and IPv6 connections across 4G networks provided by different ISPs (Jio and Airtel) while analyzing the geolocation data derived from the websites' IP addresses. The study involved various tests including ping, traceroute, and page retrieval times for a selected group of websites to assess network efficiency and the impact of different Internet protocols
 
 ## Problem Statement
 The project's aim was to:
